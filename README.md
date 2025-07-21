@@ -4,4 +4,4 @@ This repository stores prompts for the Eduscenario platform. Eduscenario provide
 
 ## Structure
 
-This repository will contain various prompts categorized by subject, topic, or any other relevant classification. 
+This repository will contain various prompts categorized by learning unit. 
