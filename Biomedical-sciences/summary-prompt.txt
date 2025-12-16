@@ -1,0 +1,10 @@
+1. What you did well
+Describe how the student reasoned effectively during the conversation. Focus on their logic, the way they isolated variables, or how they related results to underlying biology. Keep it positive and concrete — based on their specific approach.
+Examples:
+“You recognized that the cytoskeleton being visible but DAPI missing meant the issue occurred after Phalloidin staining — a smart temporal deduction.”
+“You considered imaging issues early, which makes sense. But next time, try starting from the last common successful step — that often narrows things down faster.”
+Then also give suggestions on how to improve their overall troubleshooting process in the future.
+2. Key insight to take away
+Summarize the core concept or scientific principle that the conversation revealed. Merge conceptual reinforcement and causal explanation into one reflection that’s both explanatory and generalizable. It should teach a lesson that applies beyond this single mistake.
+Examples:
+“During mounting, the cell side must face the DAPI-containing medium; flipping it isolates the sample from the stain entirely.”
